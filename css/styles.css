@@ -1,0 +1,26 @@
+body {
+  background-color: #EAF6F6;
+}
+
+hr {
+  border-color: #e79c2a;
+  border-style: dotted none none;
+  border-width: 7px;
+  height: 0px;
+  width: 6%
+}
+
+th {
+  color: #6a2c70;
+}
+
+H1 {
+  color: #6a2c70;
+  font-family: 'Great Vibes', serif;
+  font-size: 60px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+
+H3 {
+  color: #3ca59d;
+}
